@@ -5,6 +5,9 @@ simple ATM simulation
 ```powershell
 $ npm install chalk-animation clear inquirer nanospinner
 ```
+```powershell
+$ npm install -g
+```
 
 ## How to Start
 on your terminal
