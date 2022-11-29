@@ -1,0 +1,24 @@
+{
+  "name": "trycli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bin/index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cli"
+  ],
+  "bin": {
+    "atmhelp": "./bin/index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^2.0.3",
+    "clear": "^0.1.0",
+    "inquirer": "^9.1.4",
+    "nanospinner": "^1.1.0"
+  }
+}
