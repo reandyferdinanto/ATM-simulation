@@ -11,7 +11,7 @@
     "cli"
   ],
   "bin": {
-    "atmhelp": "./bin/index.js"
+    "atmSim": "./bin/index.js"
   },
   "author": "",
   "license": "ISC",
