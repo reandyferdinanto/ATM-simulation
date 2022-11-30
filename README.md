@@ -12,5 +12,5 @@ $ npm install -g
 ## How to Start
 on your terminal
 ```powershell
-$ atmhelp
+$ atmSim
 ```
