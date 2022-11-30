@@ -11,6 +11,8 @@ let qNat;
 let qUser;
 let WDVlad;
 let yN;
+let qq3;
+let q3;
 
 const sleep = (ms = 2000) => new Promise((r) => setTimeout(r, ms));
 
@@ -163,7 +165,7 @@ async function qDepositVlad() {
   spinner.stop();
   q3 = answers.question_DepVlad;
   const Quest3 = parseInt(q3);
-  const balNow = ballance + Quest3;
+  const balNow = ballanceVlad + Quest3;
   qq3 = balNow;
   console.log(`jumlah saldo anda adalah ${balNow}\n`);
 }
