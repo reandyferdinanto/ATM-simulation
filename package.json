@@ -19,6 +19,6 @@
     "chalk-animation": "^2.0.3",
     "clear": "^0.1.0",
     "inquirer": "^9.1.4",
-    "nanospinner": "^1.1.0"
+    "nanospinner": "^1.2.0"
   }
 }
